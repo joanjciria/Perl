@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#bucles1.pl
+#conversor1.pl
 use strict;
 use warnings;
 use utf8;
