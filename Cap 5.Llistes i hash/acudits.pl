@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#matrius10.pl
+#acudits.pl
 use strict;
 use warnings;
 use utf8;
